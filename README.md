@@ -1,6 +1,6 @@
 # Live-Server-App
 + Get IP for to test website on connected device on same WiFi
-  ```bash
+  ```json
   ip addr # use it on terminal [( Android - TermUX / Python Terminal ) , ( Ubuntu - Terminal ) ]
   ```
   ```bash
