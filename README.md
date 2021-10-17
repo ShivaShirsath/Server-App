@@ -9,3 +9,4 @@
   ```bash
   http://ip:port/index.html
   ```
++ [⇩ ](https://www.mediafire.com/file/ypzr3v07ph9lakb/AIDE_Server.apk)
