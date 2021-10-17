@@ -5,8 +5,8 @@
   ```json
   ip addr
   ```
-+ Use other than localhost ip ( remember port number )
++ Use other than localhost ( remember port number )
   ```bash
-  http://ip:port/index.html
+  http://ip:port 
   ```
 + [⇩ apk](https://www.mediafire.com/file/aoeub2ilvpdx5vs/Live_Server.apk)
