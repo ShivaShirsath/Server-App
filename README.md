@@ -8,7 +8,7 @@
   python -m http.server 8000 --bind 127.0.0.1 --directory /path
   ```
 + Use other than localhost ( remember port number )
-  ```bash
+  ```css
   http://ip:port 
   # Or
   termux-open https://127.0.0.1:8000
