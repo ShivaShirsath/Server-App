@@ -14,4 +14,4 @@
   termux-open https://127.0.0.1:8000
   ```
 + [⇩ apk](https://www.mediafire.com/file/aoeub2ilvpdx5vs/Live_Server.apk) Live Server
-+ [⇩ apk](https://www.mediafire.com/file/gt0zgk9pos6pdam/Python_Server.apk) Python Server
++ [⇩ apk](https://www.mediafire.com/file/7jl1m71a3fg44ve/Python+Server.apk) Python Server
