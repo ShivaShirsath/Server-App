@@ -5,7 +5,7 @@ use below command on [ Android ( [TermUX](https://play.google.com/store/apps/det
   ```css
   ip addr
   ```
-  # Or
+# Or
   ```css
   python -m http.server 8000 --bind 127.0.0.1 --directory /path
   ```
@@ -18,11 +18,11 @@ use below command on [ Android ( [TermUX](https://play.google.com/store/apps/det
 + [⇩ apk](https://www.mediafire.com/file/aoeub2ilvpdx5vs/Live_Server.apk) Live Server
 + [⇩ apk](https://www.mediafire.com/file/7jl1m71a3fg44ve/Python+Server.apk) Python Server
 
-+ Auto reload 
-  ```javascript
-  document.addEventListener('visibilitychange', e =>{
-    if (document.visibilityState === 'visible') {
-      document.location.reload(true);
-    }
-  });
-  ```
+## Auto reload 
+```javascript
+document.addEventListener('visibilitychange', e =>{
+  if (document.visibilityState === 'visible') {
+    document.location.reload(true);
+  }
+});
+```
