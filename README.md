@@ -17,7 +17,7 @@ ip=127.0.0.1
 port=8000
 path=$HOME/project
 ```
-```css
+```js
 python -m http.server $port --bind $ip --directory $path
 ```
 ***
