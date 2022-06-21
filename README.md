@@ -5,7 +5,7 @@ use below command on [ Android ( [TermUX](https://play.google.com/store/apps/det
   ```css
   ip addr
   ```
-**Or**
+  **Or**
   ```css
   ip=127.0.0.1
   port=8000
@@ -17,7 +17,9 @@ use below command on [ Android ( [TermUX](https://play.google.com/store/apps/det
 **Use**
   ```css
   http://ip:port
-  # Or
+  ```
+  **Or**
+  ```css
   termux-open https://ip:port
   ```
   
