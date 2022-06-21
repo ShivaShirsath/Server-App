@@ -18,7 +18,7 @@ use below command on [ Android ( [TermUX](https://play.google.com/store/apps/det
   ```css
   http://ip:port
   ```
-  **Or**
+   **Or**
   ```css
   termux-open https://ip:port
   ```
