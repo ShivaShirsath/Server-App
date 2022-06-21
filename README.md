@@ -5,20 +5,26 @@ use below command on [ Android ( [TermUX](https://play.google.com/store/apps/det
   ```css
   ip addr
   ```
-# Or
+**Or**
   ```css
-  python -m http.server 8000 --bind 127.0.0.1 --directory /path
+  ip=127.0.0.1
+  port=8000
+  path=$HOME/project
   ```
-+ Use other than localhost
   ```css
-  http://ip:8000
+  python -m http.server $port --bind $ip --directory $path
+  ```
+**Use**
+  ```css
+  http://ip:port
   # Or
-  termux-open https://127.0.0.1:8000
+  termux-open https://ip:port
   ```
+  
 + [⇩ apk](https://www.mediafire.com/file/aoeub2ilvpdx5vs/Live_Server.apk) Live Server
 + [⇩ apk](https://www.mediafire.com/file/7jl1m71a3fg44ve/Python+Server.apk) Python Server
 
-## Auto reload 
+**Auto reload** 
 ```javascript
 document.addEventListener('visibilitychange', e =>{
   if (document.visibilityState === 'visible') {
