@@ -1,8 +1,10 @@
 # Live-Server-App
 + Get IP for to test website on connected device on same WiFi
    
-use on 
+use on
+
   Android => [TermUX](https://play.google.com/store/apps/details?id=com.termux) / [Pydroid 3 Terminal](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+  
   Ubuntu => any Terminal
 ***
 #### Command
